@@ -1,0 +1,1 @@
+{"1":{"id":1,"typeAction":0,"typeEffect":3,"levelSkillEffect":1,"effectValue":10.0,"timeExist":0.0,"ratioSuccess":1.0,"timeDistance":0.0,"ratioOutbreak":0.0},"2":{"id":2,"typeAction":1,"typeEffect":1,"levelSkillEffect":1,"effectValue":50.0,"timeExist":0.0,"ratioSuccess":1.0,"timeDistance":0.0,"ratioOutbreak":0.0}}

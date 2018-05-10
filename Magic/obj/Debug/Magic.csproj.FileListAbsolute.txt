@@ -1,0 +1,24 @@
+E:\Magic2\Magic\Magic\Magic\bin\Debug\Magic.exe.config
+E:\Magic2\Magic\Magic\Magic\bin\Debug\Magic.exe
+E:\Magic2\Magic\Magic\Magic\bin\Debug\Magic.pdb
+E:\Magic2\Magic\Magic\Magic\obj\Debug\Magic.exe
+E:\Magic2\Magic\Magic\Magic\obj\Debug\Magic.pdb
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Magic\Magic\obj\Debug\Magic.csprojResolveAssemblyReference.cache
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Magic\Magic\obj\Debug\Magic.exe
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Magic\Magic\obj\Debug\Magic.pdb
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Magic\Magic\bin\Debug\Magic.exe.config
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Magic\Magic\bin\Debug\Magic.exe
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Magic\Magic\bin\Debug\Magic.pdb
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Magic\Magic\bin\Debug\Newtonsoft.Json.dll
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Magic\Magic\bin\Debug\Newtonsoft.Json.xml
+E:\Magic2\Magic\Magic\Magic\bin\Debug\Newtonsoft.Json.dll
+E:\Magic2\Magic\Magic\Magic\bin\Debug\Newtonsoft.Json.xml
+E:\Magic2\Magic\Magic\Magic\obj\Debug\Magic.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Magic\Magic\Magic\Magic\bin\Debug\Magic.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Magic\Magic\Magic\Magic\bin\Debug\Magic.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Magic\Magic\Magic\Magic\bin\Debug\Magic.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Magic\Magic\Magic\Magic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Magic\Magic\Magic\Magic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Magic\Magic\Magic\Magic\obj\Debug\Magic.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Magic\Magic\Magic\Magic\obj\Debug\Magic.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Magic\Magic\Magic\Magic\obj\Debug\Magic.pdb
